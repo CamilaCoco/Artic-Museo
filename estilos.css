@@ -1,0 +1,237 @@
+
+body {
+    background-color:  #F5EDE2;
+    font-family: 'Archivo', sans-serif;
+}
+
+nav {
+    background-color: #F5EDE2;
+}
+
+nav .nav-link{
+    color: #1F2124;
+    font-size: 15pt;
+    font-weight: bold;
+}
+
+nav .nav-link:hover {
+    color: #F26C3F;
+}
+
+.form-control {
+    border-width: 3px;
+    border-color: #1F2124;
+}
+
+.form-control:hover {
+    border-color: #F26C3F;
+}
+
+.display-1 {
+    color: #F3ECE1 ;
+    font-weight: 700;
+}
+
+.display-2 {
+    color: #F3ECE1;
+    font-weight: 700;
+}
+
+span {
+    color: #1F2124;
+}
+
+#Inicio h3 {
+    font-family: 'Archivo', sans-serif;
+    color: #1F2124;
+}
+
+.carousel-item .btn {
+    background-color: #CCDBF0;
+    color: #1F2124;
+    font-weight: bold;
+}
+
+.carousel-item #texto-carousel {
+    font-family: 'Raleway', sans-serif;
+    background-color: #F3ECE1;
+    color: #1F2124;
+}
+
+.carousel-item .btn:hover {
+    background-color: #1F2124;
+    color: #CCDBF0;
+}
+
+.carousel-indicators button:hover {
+    background-color: #F26C3F;
+}
+
+#Evento h2 {
+    font-family: 'Raleway', sans-serif;
+    font-weight: lighter;
+    font-size: 45px;
+    color: #1F2124;
+}
+
+.movimiento {
+    color: #F26C3F;
+    font-size: 25px;
+}
+
+.evento1 {
+    color: #1F2124;
+    font-size: 20px;
+}
+
+.evento2 {
+    color: #1F2124;
+    font-size: 20px;
+}
+
+#Pintores {
+    background-color: #F26C3F;
+}
+
+.artistas h2 {
+    font-family: 'Raleway', sans-serif;
+    font-weight: lighter;
+    font-size: 50px;
+    color: #F3ECE1;
+}
+
+.artistas span {
+    color: #1F2124;
+}
+
+#card1 {
+    color: #F26C3F;
+    background-color: #F5EDE2;
+}
+
+#card2 {
+    color: #F26C3F;
+    background-color: #F5EDE2;
+}
+
+#card3 {
+    color: #F26C3F;
+    background-color: #F5EDE2;
+}
+
+.card-title {
+    font-family: 'Archivo', sans-serif;
+    font-size: 35px;
+    font-weight: 800;
+}
+
+.card-text {
+    color: #1F2124;
+    font-family: 'Raleway', sans-serif;
+    font-weight: lighter;
+    font-size: 22px
+}
+
+.btn {
+    font-family: 'Raleway', sans-serif;
+    background-color: #CCDBF0;
+    color: #1F2124;
+}
+
+.btn:hover {
+    background-color: #1F2124;
+    color: #CCDBF0;
+}
+
+.modal-content {
+    background-color: #F3ECE1;
+}
+
+.modal-header {
+    color: #F26C3F;
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+}
+
+.modal-body {
+    color: #1F2124;
+    font-family: 'Archivo', sans-serif;
+}
+
+#close {
+    font-weight: lighter;
+    background-color: #F26C3F;
+    color: white;
+}
+
+#close:hover {
+    background-color: black;
+}
+
+#Agenda h2 {
+    font-family: 'Raleway', sans-serif;
+    font-weight: lighter;
+    font-size: 45px;
+    color: #F26C3F;
+}
+
+#Agenda .btn {
+    background-color: #F26C3F;
+    color: #F3ECE1;
+    font-family: 'Raleway', sans-serif;
+}
+
+#Agenda .btn:hover {
+    background-color: #1F2124;
+    color: #F3ECE1;
+}
+
+.accordion-button {
+    font-size: 25px;
+    font-family: 'Archivo', sans-serif;
+    font-weight: bold;
+    background-color: #F26C3F;
+    color: #F3ECE1;
+
+}
+
+.accordion-button:hover {
+    background-color: #CCDBF0;
+    color: #1F2124;
+
+}
+
+.accordion-item {
+    background-color: #CCDBF0;
+}
+
+
+#Ubicacion {
+    background-image: url(img/onda_celeste.png);
+    background-repeat: no-repeat;
+}
+
+#Ubicacion h2 {
+    font-family: 'Raleway', sans-serif;
+    font-weight: lighter;
+    font-size: 50px;
+    color: #1F2124;
+}
+
+#Ubicacion p {
+    font-family: 'Archivo', sans-serif;
+    font-size: 20px;
+}
+
+#redes ul li {
+    list-style-type: none;
+    margin: 10px;
+}
+
+#redes ul li a{
+    color: white;
+}
+
+#redes ul li a:hover {
+    color: #F26C3F;
+}
